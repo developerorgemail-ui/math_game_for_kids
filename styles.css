@@ -66,6 +66,13 @@ body {
     font-weight: 600;
 }
 
+.hint {
+    margin: 15px 0;
+    font-size: 0.95em;
+    color: #555;
+    text-align: center;
+}
+
 .game-content {
     margin-bottom: 30px;
 }
